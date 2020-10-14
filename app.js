@@ -11,7 +11,7 @@ const mainRoute = require('./routes');
 app.use(mainRoute);
 
 app.use((req, res, next) => {
-    const err = new Error(`The page you requested wasn't found. Try again`);
+    const err = new Error(`This page doesn't exist`);
     err.status = 404;
     next(err);
 });
