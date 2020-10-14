@@ -7,7 +7,10 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://ptmccrary.github.io/the-office-quote-generator/",
             "github_link": "https://github.com/ptmccrary/The-Office-Quote-Generator",
-            "image_urls": ["/static/img/projects/quote_generator_main", "/static/img/projects/quote_generator_1", "/static/img/projects/quote_generator_2"]
+            "image_urls": {
+                "main": "/static/img/projects/quote_generator_main.png",
+                "project": ["/static/img/projects/quote_generator_1.png", "/static/img/projects/quote_generator_2.png"]
+            }
         },
         {
             "id": 1,
@@ -16,7 +19,10 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://ptmccrary.github.io/list-pagination-and-filtering/",
             "github_link": "https://github.com/ptmccrary/List-Pagination-and-Filtering",
-            "image_urls": ["/static/img/projects/list_pagination_main", "/static/img/projects/list_pagination_1", "/static/img/projects/list_pagination_2", "/static/img/projects/list_pagination_3"]
+            "image_urls": {
+                "main": "/static/img/projects/list_pagination_main.png",
+                "project": ["/static/img/projects/list_pagination_1.png", "/static/img/projects/list_pagination_2.png", "/static/img/projects/list_pagination_3.png"]
+            }
         },
         {
             "id": 2,
@@ -25,7 +31,10 @@
             "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
             "live_link": "https://ptmccrary.github.io/interactive-form/",
             "github_link": "https://github.com/ptmccrary/interactive-form-v2",
-            "image_urls": ["/static/img/projects/interactive_form_main", "/static/img/projects/interactive_form_1", "/static/img/projects/interactive_form_2", "/static/img/projects/interactive_form_3"]
+            "image_urls": {
+                "main": "/static/img/projects/interactive_form_main.png", 
+                "project": ["/static/img/projects/interactive_form_1.png", "/static/img/projects/interactive_form_2.png", "/static/img/projects/interactive_form_3.png"]
+            }
         },
         {
             "id": 3,
@@ -34,7 +43,10 @@
             "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
             "live_link": "https://ptmccrary.github.io/oop-game-show-app/",
             "github_link": "https://github.com/ptmccrary/OOP-Game-Show-App",
-            "image_urls": ["/static/img/projects/phrase_hunter_main", "/static/img/projects/phrase_hunter_1", "/static/img/projects/phrase_hunter_2", "/static/img/projects/phrase_hunter_3"]
+            "image_urls": {
+                "main": "/static/img/projects/phrase_hunter_main.png", 
+                "project": ["/static/img/projects/phrase_hunter_1.png", "/static/img/projects/phrase_hunter_2.png", "/static/img/projects/phrase_hunter_3.png"]
+            }
         },
         {
             "id": 4,
@@ -43,7 +55,10 @@
             "technologies": ["JavaScript", "HTML", "CSS", "Fetch API", "AJAX"],
             "live_link": "https://ptmccrary.github.io/public-api-request/",
             "github_link": "https://github.com/ptmccrary/public-api-request",
-            "image_urls": ["/static/img/projects/public_api_req_main", "/static/img/projects/public_api_req_1", "/static/img/projects/public_api_req_2", "/static/img/projects/public_api_req_3"]
+            "image_urls": {
+                "main": "/static/img/projects/public_api_req_main.png", 
+                "project": ["/static/img/projects/public_api_req_1.png", "/static/img/projects/public_api_req_2.png", "/static/img/projects/public_api_req_3.png"]
+            }
         }
     ]
 }
