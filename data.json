@@ -9,7 +9,7 @@
             "github_link": "https://github.com/ptmccrary/The-Office-Quote-Generator",
             "image_urls": {
                 "main": "/static/img/projects/quote_generator_main.png",
-                "project": ["/static/img/projects/quote_generator_1.png", "/static/img/projects/quote_generator_2.png"]
+                "images": ["/static/img/projects/quote_generator_1.png", "/static/img/projects/quote_generator_2.png"]
             }
         },
         {
@@ -21,7 +21,7 @@
             "github_link": "https://github.com/ptmccrary/List-Pagination-and-Filtering",
             "image_urls": {
                 "main": "/static/img/projects/list_pagination_main.png",
-                "project": ["/static/img/projects/list_pagination_1.png", "/static/img/projects/list_pagination_2.png", "/static/img/projects/list_pagination_3.png"]
+                "images": ["/static/img/projects/list_pagination_1.png", "/static/img/projects/list_pagination_2.png", "/static/img/projects/list_pagination_3.png"]
             }
         },
         {
@@ -33,7 +33,7 @@
             "github_link": "https://github.com/ptmccrary/interactive-form-v2",
             "image_urls": {
                 "main": "/static/img/projects/interactive_form_main.png", 
-                "project": ["/static/img/projects/interactive_form_1.png", "/static/img/projects/interactive_form_2.png", "/static/img/projects/interactive_form_3.png"]
+                "images": ["/static/img/projects/interactive_form_1.png", "/static/img/projects/interactive_form_2.png", "/static/img/projects/interactive_form_3.png"]
             }
         },
         {
@@ -45,7 +45,7 @@
             "github_link": "https://github.com/ptmccrary/OOP-Game-Show-App",
             "image_urls": {
                 "main": "/static/img/projects/phrase_hunter_main.png", 
-                "project": ["/static/img/projects/phrase_hunter_1.png", "/static/img/projects/phrase_hunter_2.png", "/static/img/projects/phrase_hunter_3.png"]
+                "images": ["/static/img/projects/phrase_hunter_1.png", "/static/img/projects/phrase_hunter_2.png", "/static/img/projects/phrase_hunter_3.png"]
             }
         },
         {
@@ -57,7 +57,7 @@
             "github_link": "https://github.com/ptmccrary/public-api-request",
             "image_urls": {
                 "main": "/static/img/projects/public_api_req_main.png", 
-                "project": ["/static/img/projects/public_api_req_1.png", "/static/img/projects/public_api_req_2.png", "/static/img/projects/public_api_req_3.png"]
+                "images": ["/static/img/projects/public_api_req_1.png", "/static/img/projects/public_api_req_2.png", "/static/img/projects/public_api_req_3.png"]
             }
         }
     ]
