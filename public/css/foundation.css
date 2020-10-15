@@ -506,6 +506,7 @@ textarea {
   display: none !important; }
 
 .grid-container {
+  background-color: #232323;
   padding-right: 0.625rem;
   padding-left: 0.625rem;
   margin: 0 auto; }
