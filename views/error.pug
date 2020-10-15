@@ -6,7 +6,7 @@ block content
     article.grid-container.portfolio-intro.portfolio-project
         .grid-x
             .cell.small-6.medium-9.large-9
-                img(src='../static/images/page-not-found.svg' alt='Not found image' style='width:50%; height:30%; text-align:center')
-                h1= error.message
-                h2= `ERROR CODE: ${err.status}`
+                img(src='../static/img/err/server-error.svg' alt='Server Error Image' style= 'text-align:center')
+                h1(style='text-align:center')= error.message
+                h2(style='text-align:center')= `ERROR CODE: ${err.status}, ${err.CODE}`
                 p= err.stack
