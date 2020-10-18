@@ -13,6 +13,14 @@ router.get('/about', (req, res) => {
     res.render('about');
 });
 
+// Error page route
+router.get('/error', (req, res, next) => {
+    const err = new Error();
+    err.message = `There seems to be a problem on our end. Try again soon!`;
+    err.status = 500;
+    throw err;
+});
+
 // project pages routes
 router.get('/projects/:id', (req, res, next) => {
     const project = projects.find((project) => project.id.toString() === req.params.id);

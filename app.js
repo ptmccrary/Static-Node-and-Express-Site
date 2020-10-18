@@ -15,24 +15,24 @@ const mainRoute = require('./routes');
 
 app.use(mainRoute);
 
-// 404 Error
+// 404 Error Handler
 app.use((req, res, next) => {
     const err = new Error(`This page doesn't exist`);
     err.status = 404;
     next(err);
 });
 
-// Depending on error show that type of error
+// Global Error Handler
 app.use((err, req, res, next) => {
     // If error status is 404, load page-not-found page
     // If error status is 500, load error page
     if(err.status === 404) {
         res.locals.error = err;
-        res.status = (err.status);
+        res.status = (err.status || 404);
         return res.render('page-not-found', { err });
-    } else if(err.status === 500) {
+    } else {
         res.locals.error = err;
-        res.status = (err.status);
+        res.status = (err.status || 500);
         res.render('error', { err });
     }
 });
