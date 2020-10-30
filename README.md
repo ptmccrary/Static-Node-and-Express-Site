@@ -1,9 +1,7 @@
 # Static Portfolio Website
 This is a portfolio website created with Node.js and Express. It includes basic components of a portfolio website, such as: a home page showing the projects I've worked on, an about page to tell the viewer a little more about me, and a detailed project page for each project in my github library.
 
-[![asciicast](https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd.png)](https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd)
-
-<script id="asciicast-QpykBsTplmgPosTGRJBfOO1Xd" src="https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd.js" async></script>
+![gif](https://imgur.com/a/q358Mn6)
 
 ## CSS Alterations
 .grid-container
