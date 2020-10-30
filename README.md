@@ -14,7 +14,3 @@ Since this website isn't deployed with a web hosting service, you'll have to run
 ```
 localhost:3000
 ```
-
-## Additional Comments
-
-This was a project from TeamTreehouse's Techdegree.
