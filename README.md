@@ -3,6 +3,8 @@ This is a portfolio website created with Node.js and Express. It includes basic 
 
 [![asciicast](https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd.png)](https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd)
 
+<script id="asciicast-QpykBsTplmgPosTGRJBfOO1Xd" src="https://asciinema.org/a/QpykBsTplmgPosTGRJBfOO1Xd.js" async></script>
+
 ## CSS Alterations
 .grid-container
 - removed max-width so content could fit better on bigger screens
