@@ -4,7 +4,7 @@ This is a portfolio website created with Node.js and Express. It includes basic 
 
 ## Usage
 
-![gif](https://i.imgur.com/16mXS1h.gif)
+![gif](https://imgur.com/a/35rTyIt)
 
 Since this website isn't deployed with a web hosting service, you'll have to run it on a localhost server.
 
